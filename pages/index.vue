@@ -1,13 +1,11 @@
 <template>
+  <NuxtLayout name="layout">
     <div>
-        <h1>Home Page</h1>
+      <h1>Home Page</h1>
     </div>
+  </NuxtLayout>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
