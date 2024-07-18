@@ -1,7 +1,7 @@
 <template>
   <form>
-    <Input label="Email" />
-    <Input label="Password" type="password" />
+    <Input placeholder="Email" />
+    <Input placeholder="Password" type="password" />
   </form>
 </template>
 
